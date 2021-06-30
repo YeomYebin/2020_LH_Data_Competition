@@ -1,0 +1,29 @@
+[이삼청춘]소스코드_순서_및_파일설명
+
+[[Notebook 소스 ipynb 파일 순서 ]]
+1. [이삼청춘1_py]어린이보호구역.ipynb
+2. [이삼청춘2_py]해결과제1_데이터셋_만들기.ipynb
+3. [이삼청춘3_R]해결과제1_분석_및 _결과도출(회귀분석).ipynb
+4. [이삼청춘4_py]해결과제2_데이터셋_만들기.ipynb
+5. [이삼청춘5_R]해결과제2_분석_및_결과도출(DEA).ipynb
+
+[[기타 중간 결과물]] 
+1. [이삼청춘부록_qgz]어린이보호구역_교차도로추출.zip : 어린이보호구역 버퍼별 교차도로 추출에 사용한 qgz파일과 레이어shp파일 압축폴더
+2. 지적도_교차영역도로_100원.geojson : QGIS로 추출한 어린이보호구역 버퍼 내 도로 데이터
+3. [이삼청춘부록_py]해결과제1_최종결과_시각화.ipynb : 해결과제1 - 어린이교통사고위험지역 20개소 시각화 파일
+
+
+[[추가(외부) 데이터]]
+1. 경기도_오산시_횡단보도.csv : 경기도 오산시 횡단보도 데이터 (출처: 공공데이터포털, https://www.data.go.kr/tcs/dss/selectStdDataDetailView.do)
+2. 오산시 과속방지턱_LOCALDATA.csv : 경기도 오산시 과속방지턱 데이터 (출처: 공공데이터포털, https://www.data.go.kr/tcs/dss/selectStdDataDetailView.do)
+3. Z_NGII_N3L_C0520000.shp : 전국 도로분리대 데이터 (출처: 국가공간정보포털, http://data.nsdi.go.kr/dataset/20180927ds0067)
+4. MOCT_NODE_shp: 2020.12.28기준 대한민국 표준 노드 (출처: 표준노드링크 지능형교통체계관리시스템, http://nodelink.its.go.kr/)
+5.MOCT_LINK_shp: 2020.12.28기준 대한민국 표준 링크 (출처: 표준노드링크 지능형교통체계관리시스템, http://nodelink.its.go.kr/)
+
+
+
+
+
+
+
+
